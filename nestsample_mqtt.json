@@ -1,0 +1,73 @@
+{
+	"protocol": "3.1",
+	"loginId": "user@tenant",
+	"template": "mymqtttest1",
+	"status": [
+		{
+			"time": 1534674087015,
+			"enabled": "true",
+			"values": [
+				{
+					"name": "MachineID",
+					"type": "2",
+					"value": "MachineID"
+				},
+				{
+					"name": "temperture",
+					"type": "3",
+					"value": 22.10808066166
+				},
+				{
+					"name": "torque1",
+					"type": "3",
+					"value": 173
+				},
+				{
+					"name": "torque2",
+					"type": "3",
+					"value": 2900
+				},
+				{
+					"name": "torque3",
+					"type": "3",
+					"value": 3400
+				},
+				{
+					"name": "Voltage1",
+					"type": "3",
+					"value": 204
+				},
+				{
+					"name": "Voltage2",
+					"type": "3",
+					"value": 202.9
+				},
+				{
+					"name": "Voltage3",
+					"type": "3",
+					"value": 200.9
+				},
+				{
+					"name": "width",
+					"type": "3",
+					"value": 100
+				},
+				{
+					"name": "height",
+					"type": "3",
+					"value": 180
+				},
+				{
+					"name": "depth",
+					"type": "3",
+					"value": 10233.9
+				},
+				{
+					"name": "weight",
+					"type": "3",
+					"value": 800.4
+				}
+			]
+		}
+	]
+}
